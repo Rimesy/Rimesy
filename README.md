@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="C:\Users\josh\OneDrive\Pictures\Camera Roll\ilse of wight.jpg" height="200" title="Josh Rimes">
+  <img height=250 width=100% src="https://github.com/Rimesy/Rimesy/assets/66075304/7f425b98-2e26-4816-983b-99106c6ba154" alt="Josh Rimes">
 </p>
+
 - 👋 Hi, I’m Josh Rimes
 - 🧑‍🎓 I’m currently a computer science student at Cardiff University.
 - 🌱 I aspire to grow in knowledge and experience in software development.
