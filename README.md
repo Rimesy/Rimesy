@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""C:\Users\josh\OneDrive\Pictures\Camera Roll\ilse of wight.jpg"" height="200" title="Josh Rimes">
+  <img src="C:\Users\josh\OneDrive\Pictures\Camera Roll\ilse of wight.jpg" height="200" title="Josh Rimes">
 </p>
 - 👋 Hi, I’m Josh Rimes
 - 🧑‍🎓 I’m currently a computer science student at Cardiff University.
