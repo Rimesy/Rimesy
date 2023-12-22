@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rimesy
+- 👋 Hi, I’m Josh Rimes
 - 🌱 I’m currently learning how to create games using a range of languages.
 - 💞️ I’m looking to collaborate with someone who can provide graphics for video games.
 - 📫 How to reach me: joshjohn1104@gmail.com
